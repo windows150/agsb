@@ -32,7 +32,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "ytdlp"         # 用户名
-UUID = "ee847792-efc0-4bad-a335-5eff428a56f5"                     # UUID，留空则自动生成
+UUID = ""                     # UUID，留空则自动生成
 PORT = 55533                  # Vmess端口，留空或0则自动生成
 DOMAIN = "root.729178.xyz"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNjU1NGE3ZmM1MWRkNjk0ZWQzZjc2MDE4YmZlNTk2NGUiLCJ0IjoiMTA1MzJhNjAtZDBlNS00ZWQ4LTliOTMtMzI0NWUyMTBkYjk0IiwicyI6Ik5UazNZV1V6WmpjdE5EQmlaQzAwTmpGaExUZzVOV1V0TXpjM05tRTRNMlpsTjJVMiJ9
